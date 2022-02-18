@@ -1,0 +1,35 @@
+body
+{
+    padding:2%;
+    text-align: center;
+    background-color: rgba(18, 62, 104, 0.637);
+    color:white;
+}
+
+.heading
+{
+    font-size: 5em;
+}
+
+.drums
+{
+    margin:auto;
+    padding:5% 2% 5% 2%;
+}
+
+.drum
+{
+    width:100px;
+    height: 100px;
+}
+
+.footer
+{
+ padding-top:10%;
+}
+
+button{
+    background-color: transparent;
+    margin:1%;
+    border:10px solid rgba(10, 77, 139, 0.637);
+}
